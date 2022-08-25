@@ -9,6 +9,5 @@ public class Z {
 
         int i = 0;
 
-        System.out.println("111111111111");
     }
 }
