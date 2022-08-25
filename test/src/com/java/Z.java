@@ -6,5 +6,7 @@ public class Z {
 
 
         System.out.println("33333333333333");
+        
+        int i = 0;
     }
 }
