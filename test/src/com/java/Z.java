@@ -12,5 +12,7 @@ public class Z {
 
 
         System.out.println("2222222222222");
+        
+       int x = 1;
     }
 }
